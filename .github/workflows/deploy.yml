@@ -27,5 +27,5 @@ jobs:
 
       - name: Deploy MkDocs
         run: |
-          cd curicullum
+          cd curiculum
           mkdocs gh-deploy --force
